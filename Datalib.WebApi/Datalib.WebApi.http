@@ -1,0 +1,6 @@
+@Datalib.WebApi_HostAddress = http://localhost:5080
+
+GET {{Datalib.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
